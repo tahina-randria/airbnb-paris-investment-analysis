@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-success.svg)
 
-## 📊 Overview
+## Overview
 
 Comprehensive data science analysis of **64,424 Airbnb listings** in Paris to evaluate investment opportunities and provide data-driven recommendations for real estate investors.
 
@@ -14,7 +14,7 @@ Comprehensive data science analysis of **64,424 Airbnb listings** in Paris to ev
 
 ---
 
-## 🎯 Key Findings
+## Key Findings
 
 - **Realistic ROI:** 5.0-6.5% annually (vs 3.5% traditional rental)
 - **Real occupancy:** 65% average (based on 365-day calendar data)
@@ -25,7 +25,7 @@ Comprehensive data science analysis of **64,424 Airbnb listings** in Paris to ev
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Run in Google Colab
 
@@ -41,7 +41,7 @@ jupyter notebook notebooks/airbnb_paris_investment_analysis.ipynb
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 ├── notebooks/                  # Jupyter notebook with full analysis
 ├── figures/                    # All visualizations (18 charts)
@@ -52,7 +52,7 @@ jupyter notebook notebooks/airbnb_paris_investment_analysis.ipynb
 
 ---
 
-## 🔬 Analysis Components
+## Analysis Components
 
 ### 1. Data Cleaning & Preprocessing
 - 64,424 listings analyzed
@@ -96,7 +96,7 @@ jupyter notebook notebooks/airbnb_paris_investment_analysis.ipynb
 
 ---
 
-## 📊 Sample Visualizations
+## Sample Visualizations
 
 ### Price Distribution
 ![Price Distribution](figures/fig_02_filtered_price_distribution.png)
@@ -112,16 +112,16 @@ jupyter notebook notebooks/airbnb_paris_investment_analysis.ipynb
 
 ---
 
-## 💡 Investment Recommendations
+## Investment Recommendations
 
-### ✅ Invest IF:
+### Invest IF:
 - Property is secondary residence (no 120-day limit)
 - Budget: 450,000+ EUR (property + setup + reserves)
 - Target: 45m² T2 apartment in identified zones
 - Management: Professional concierge service (20% fee)
 - Expectations: Realistic 5-7% ROI
 
-### ❌ Avoid IF:
+### Avoid IF:
 - Primary residence (regulatory limit = 1% ROI)
 - Budget < 400,000 EUR
 - Expecting 10%+ ROI (unrealistic)
@@ -130,7 +130,7 @@ jupyter notebook notebooks/airbnb_paris_investment_analysis.ipynb
 
 ---
 
-## 📈 Technologies Used
+## Technologies Used
 
 - **Python 3.8+**
 - **Data Analysis:** pandas, numpy
@@ -141,7 +141,7 @@ jupyter notebook notebooks/airbnb_paris_investment_analysis.ipynb
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | Metric | Value |
 |--------|-------|
@@ -155,7 +155,7 @@ jupyter notebook notebooks/airbnb_paris_investment_analysis.ipynb
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Tahina Randrianandraina**
 - GitHub: [@tahina-randria](https://github.com/tahina-randria)
@@ -163,13 +163,13 @@ jupyter notebook notebooks/airbnb_paris_investment_analysis.ipynb
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inside Airbnb for providing open data
 - Kaggle community for datasets
@@ -178,10 +178,10 @@ This project is licensed under the MIT License.
 
 ---
 
-## ⚖️ Disclaimer
+## Disclaimer
 
 This analysis is for **educational purposes only** and does not constitute financial or investment advice. Always consult with qualified professionals before making investment decisions.
 
 ---
 
-**⭐ Star this repository if you found it helpful!**
+**Star this repository if you found it helpful!**
